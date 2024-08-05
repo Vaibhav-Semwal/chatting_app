@@ -7,6 +7,4 @@ connected server and client using sockets library.
 note: open server.jar before opening the client.jar
 
 # future addons 
-- create a home page
 - addition of group functionality
-- other minor bug fixes
